@@ -21,10 +21,10 @@ Aplicación móvil desarrollada como parte del  **Proyecto Final de Tecnicatura*
 
 ## 🛠️ Construido con
 
-- ![Kotlin](https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white) - Lenguaje de programación para desarrollo en Android y aplicaciones Java.
-- ![Retrofit2](https://img.shields.io/badge/Retrofit2-49b883?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgdmlld0JveD0iMCAwIDI2IDI2Ij48ZyBmaWxsPSJub25lIj48ZGVmcz48bWFzayBpZD0icGVwaWNvbnNQb3BTcXVhcmVDaXJjbGVGaWxsZWQwIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMCAwaDI2djI2SDB6Ii8+PHBhdGggZmlsbD0iIzAwMCIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNNyA4YTEgMSAwIDAgMSAxLTFoMTBhMSAxIDAgMCAxIDEgMXYxMGExIDEgMCAwIDEtMSAxSDhhMSAxIDAgMCAxLTEtMXptMiAxdjhoOFY5eiIgY2xpcC1ydWxlPSJldmVub2RkIi8+PC9tYXNrPjwvZGVmcz48Y2lyY2xlIGN4PSIxMyIgY3k9IjEzIiByPSIxMyIgZmlsbD0iI2ZmZmZmZiIgbWFzaz0idXJsKCNwZXBpY29uc1BvcFNxdWFyZUNpcmNsZUZpbGxlZDApIi8+PC9nPjwvc3ZnPg==) - Librería para integrar APIs RESTful en aplicaciones Android y Java.
-- ![Gradle](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white) - Herramienta de automatización de construcción para proyectos Java, Android y más.
-- ![Android-Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) - IDE para el desarrollo de aplicaciones Android.
+- [![Kotlin](https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/) - Lenguaje de programación para desarrollo en Android y aplicaciones Java.
+- [![Retrofit2](https://img.shields.io/badge/Retrofit2-49b883?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgdmlld0JveD0iMCAwIDI2IDI2Ij48ZyBmaWxsPSJub25lIj48ZGVmcz48bWFzayBpZD0icGVwaWNvbnNQb3BTcXVhcmVDaXJjbGVGaWxsZWQwIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMCAwaDI2djI2SDB6Ii8+PHBhdGggZmlsbD0iIzAwMCIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNNyA4YTEgMSAwIDAgMSAxLTFoMTBhMSAxIDAgMCAxIDEgMXYxMGExIDEgMCAwIDEtMSAxSDhhMSAxIDAgMCAxLTEtMXptMiAxdjhoOFY5eiIgY2xpcC1ydWxlPSJldmVub2RkIi8+PC9tYXNrPjwvZGVmcz48Y2lyY2xlIGN4PSIxMyIgY3k9IjEzIiByPSIxMyIgZmlsbD0iI2ZmZmZmZiIgbWFzaz0idXJsKCNwZXBpY29uc1BvcFNxdWFyZUNpcmNsZUZpbGxlZDApIi8+PC9nPjwvc3ZnPg==)](https://square.github.io/retrofit/) - Librería para integrar APIs RESTful en aplicaciones Android y Java.
+- [![Gradle](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)](https://gradle.org/) - Herramienta de automatización de construcción para proyectos Java, Android y más.
+- [![Android-Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio?hl=es-419) - IDE para el desarrollo de aplicaciones Android.
 
 ## 💻 Desarrollado por equipo `Error404`
 
